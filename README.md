@@ -5,12 +5,19 @@ Este projeto é um sistema de gerenciamento desenvolvido em C++ para uma clínic
 O sistema oferece as seguintes funcionalidades:
 
 Inserir: Permite cadastrar novos fisioterapeutas, pacientes e horários;
+
 Listar Todos: Exibe todos os registros cadastrados no sistema;
+
 Exibir Um: Pesquisa e exibe um registro específico pelo nome;
+
 Alterar: Pesquisa e permite a alteração de um registro específico;
+
 Remover: Pesquisa e remove um registro específico;
+
 Exibir Relatório: Gera um relatório com resumo das informações cadastradas, como número de pacientes, fisioterapeutas, horários disponíveis, etc.
+
 Sair: Encerra a aplicação, salvando todos os dados em arquivos para garantir a persistência.
+
 
 Modelagem do Sistema
 O sistema foi modelado utilizando um diagrama UML de classes, seguindo os seguintes requisitos:
