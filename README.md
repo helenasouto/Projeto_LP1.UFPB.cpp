@@ -2,7 +2,6 @@
 Sistema de Gerenciamento de Clínica de Fisioterapia
 Este projeto é um sistema de gerenciamento desenvolvido em C++ para uma clínica de fisioterapia. O sistema implementa as operações básicas de um CRUD (Create, Read, Update, Delete) para gerenciar dados de pacientes, fisioterapeutas e horários.
 
-Funcionalidades
 O sistema oferece as seguintes funcionalidades:
 
 Inserir: Permite cadastrar novos fisioterapeutas, pacientes e horários;
